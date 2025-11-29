@@ -1,0 +1,178 @@
+Q. Write a program to implement Quick Sort by taking middle element as pivot element. 
+Also compute the complexity of this program. Explain it to me, and use Python.
+
+
+
+🌈 WHAT IS SORTING? (Kid Version)
+
+Sorting is like arranging things in the right order.
+
+Example:
+
+You have these toys:
+
+🧸 🚗 🧸 🎈 🦖 🪀
+
+They are mixed up!
+
+Sorting means:
+
+👉 Put them in order (small to big, A to Z, or 1 to 10)
+
+So they become:
+
+🧸 🧸 🚗 🎈 🦖 🪀
+
+Sorting = making things neat and arranged.
+
+🎁 WHY IS SORTING IMPORTANT? (Kid Version)
+
+Sorting is important because it helps you:
+
+✔ 1. Find things faster
+
+Like when toys are arranged, you quickly find your favorite teddy bear 🧸.
+
+✔ 2. Keep things neat
+
+A neat toy box makes you happy 🌟.
+
+✔ 3. Save time
+
+If books or files are sorted, computers and people work faster.
+
+✔ 4. Make searching easier
+
+You can find numbers, names, or items quickly.
+
+✔ 5. Computers need sorting for almost everything
+
+💻 Searching
+💻 Organizing files
+💻 Ranking items
+💻 Showing you best videos
+💻 Online shopping
+💻 Databases
+
+Sorting helps computers think faster!
+
+🎨 TYPES OF SORTING (Kid-Friendly Explanation)
+
+Now I’ll explain different sorting types as if they are fun games kids play!
+
+🟦 1. Bubble Sort
+
+👉 Like bubbles popping in water.
+
+You look at two toys:
+
+🧸 🚗
+
+If they are not in order, you swap them.
+
+You keep comparing two toys at a time, moving big ones to the end…
+Like big bubbles float to the top.
+
+Slow but easy!
+
+🟩 2. Selection Sort
+
+👉 Like picking the smallest toy every time.
+
+You check all toys…
+
+Find the smallest one → put it first.
+Find the next smallest → put it second.
+
+Like picking the smallest apple from a basket 🍎.
+
+🟧 3. Insertion Sort
+
+👉 Like putting books on a shelf.
+
+When you get a new book, you find the correct spot and slide it in.
+
+Computers do the same:
+
+Take one item → put it in the right place.
+
+Very good for small lists.
+
+🟥 4. Merge Sort
+
+👉 Imagine splitting toys into two boxes, then sorting each box, then joining them.
+
+Split toys into halves
+
+Sort each half
+
+Join them together like puzzle pieces
+
+Very fast and organized.
+
+🟪 5. Quick Sort
+
+👉 Like the game we learned before 🎉
+
+Pick the middle toy
+Make small pile and big pile
+Sort each pile
+Put them together
+
+Very fast for big lists!
+
+🟨 6. Heap Sort
+
+👉 Like building a toy mountain ⛰️
+
+Put biggest toy at the top
+Take it down
+Rebuild the mountain
+Repeat
+
+Very stable and predictable.
+
+🟫 7. Counting Sort
+
+👉 Perfect when toys are numbers
+
+If toys have numbers:
+
+2, 5, 3, 2, 1
+
+Count how many "1s", how many "2s", etc.
+
+Then place them in order.
+
+Fastest when numbers are small.
+
+🧠 SUMMARY (Kid-Friendly)
+Sorting Type	Kid Explanation
+Bubble Sort	Pop bubbles (swap neighbors)
+Selection Sort	Pick smallest toy each time
+Insertion Sort	Put each book in its right place
+Merge Sort	Split into halves, sort, join
+Quick Sort	Pick middle toy, make piles
+Heap Sort	Build a toy mountain
+Counting Sort	Count toys with numbers
+🌟 Why Sorting Matters (Big-Kid Version)
+
+Sorting is used in:
+
+Google search results
+
+Online shopping prices
+
+Ranking YouTube or TikTok videos
+
+Organizing phone contacts
+
+Arranging files or photos
+
+Databases
+
+Banking transactions
+
+School grading systems
+
+Sorting is one of the most important things in computer science.
