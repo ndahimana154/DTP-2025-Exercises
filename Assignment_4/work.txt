@@ -1,0 +1,9 @@
+Questions for ML:
+1.Implement one code using linear regression using any array or dataset.
+2.Implement Mean,Mode, Median  and Trimmed mean in a dataset.
+
+Note: -Name the hardware requirements 
+-Software requirements 
+-And Apparatus that are required for the above practicals
+-Mention the steps followed for your implementation process
+-Last what did you learn from it
